@@ -7,11 +7,15 @@ while constantly seeking to expand my skills and knowledge in the ever-evolving 
 About me 
 
 🎓 Pursuing B.Tech in Computer Science at PES University, Bangalore.
+
 👀 I’m a Tech Enthusiasist
+
 💡 Aspiring software developer with a keen interest in building innovative solutions.
+
 🌐 Constantly learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
 
 Skills
+
 I have hands-on experience and proficiency in the following technologies:
 
 
