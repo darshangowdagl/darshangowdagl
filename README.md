@@ -29,6 +29,7 @@ Git: Experienced with Git for version control, collaboration, and managing proje
 
 
 👨‍💻 All of my projects are available at https://github.com/darshandarshugl?tab=repositories
+
 📫 How to reach me darshandarshugl101218@gmail.com
 
 
