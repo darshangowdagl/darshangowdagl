@@ -14,22 +14,28 @@ About me
 
 🌐 Constantly learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
 
-Skills
+-: Skills :-
 
-I have hands-on experience and proficiency in the following technologies:
+Programming Languages :-
+C++ (with OOPS concepts) – Strong foundation in system-level programming and algorithm development.
+HTML, CSS, JavaScript – Proficient in building responsive and interactive web pages.
+SQL – Experienced in database design, querying, and optimization.
 
+Frameworks & Libraries :-
+Frontend: React.js
+Backend: Node.js, Express.js
+Data Science & ML: Pandas, NumPy, TensorFlow, Scikit-learn
 
-C & C++: Strong foundation in both C and C++ programming languages, enabling efficient system-level programming and algorithm development.
+Databases & Tools :-
+Databases: MongoDB, MySQL
+Tools: Git, GitHub, Docker, Kubernetes, Kaggle
 
-Python: Adept in Python for a variety of tasks, including scripting, data analysis, and web development.
+Soft Skills :-
+Strong communication, effective collaboration and teamwork, and multilingual proficiency.
 
-HTML & CSS: Well-versed in crafting responsive, visually appealing web pages with clean and efficient code.
-
-JavaScript: Proficient in creating dynamic, interactive web applications.
-
-SQL: Competent in database design, querying, and management using SQL.
-
-Git: Experienced with Git for version control, collaboration, and managing project workflows.
+Relevant Coursework :-
+Software Engineering, Data Structures and Algorithms, Operating Systems, Computer Networks
+Database Management Systems, Machine Learning, Graph Theory, Object-Oriented Analysis and Design
 
 
 👨‍💻 All of my projects are available at https://github.com/darshandarshugl?tab=repositories
