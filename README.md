@@ -38,7 +38,7 @@ Software Engineering, Data Structures and Algorithms, Operating Systems, Compute
 Database Management Systems, Machine Learning, Graph Theory, Object-Oriented Analysis and Design
 
 
-👨‍💻 All of my projects are available at https://github.com/darshandarshugl?tab=repositories
+👨‍💻 All of my projects are available at https://github.com/darshangowdagl?tab=repositories
 
 📫 How to reach me darshandarshugl101218@gmail.com
 
